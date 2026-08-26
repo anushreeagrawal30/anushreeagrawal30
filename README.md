@@ -12,10 +12,59 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anushreeagrawal30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anushreeagrawal30" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anushreeee30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anushreeee30" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anushreeagrawal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anushreeagrawal4" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anushreeagrawal3012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anushreeagrawal3012" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anushreeagrawal30" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="anushreeagrawal30"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/anushreeagrawal30/" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"
+         alt="anushreeagrawal30"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/anushreeee30" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"
+         alt="anushreeee30"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/anushreeagrawal4" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="anushreeagrawal4"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/anushreeagrawal3012/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+         alt="anushreeagrawal3012"
+         height="30"
+         width="40" />
+  </a>
+
+  <!-- Codolio -->
+  <a href="https://codolio.com/profile/anushreeagrawal" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codio.svg"
+         alt="Codolio"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
